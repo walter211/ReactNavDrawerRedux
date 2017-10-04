@@ -1,5 +1,7 @@
 # ReactNavDrawerRedux
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kyaroru/ReactNavDrawerRedux.svg)](https://greenkeeper.io/)
+
 A simple example of using DrawerNavigator in React Navigation (With REDUX integration)
 
 It consists of a fake login page (without drawer) and also other pages that can be seen only after login (with drawer)
